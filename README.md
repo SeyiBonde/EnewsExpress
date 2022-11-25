@@ -8,12 +8,12 @@ This project used statistical analysis, a/b testing, and visualization to decide
 - Statistical Inference
 
 ## Libraries used
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Plotly
-SciPy
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- SciPy
 
 ### About Me
 I'm Seyi, and there’s absolutely nothing I love more than using data driven strategies for problem-solving in businesses! 
@@ -27,6 +27,6 @@ I’m proficient in using Python, SQL (intermediate), Microsoft excel, Microsoft
 I use Python Libraries regularly to explore data, perform statistical analysis such as A/B testing and build machine learning models (supervised and unsupervised). My most frequently used libraries include Pandas, numpy, matplotlib, plotly, scikit learn and scipy.stats.
 
 ### Connect with me!
-[Portfolio](https://seyibonde.github.io/SeyiForDataScience.github.io/)
-[Twitter](https://mobile.twitter.com/seyiflawless)
-[LinkedIn](https://www.linkedin.com/in/oluwaseyi-bondefaiye-owope-ab9951b1/)
+- [Portfolio](https://seyibonde.github.io/SeyiForDataScience.github.io/)
+- [Twitter](https://mobile.twitter.com/seyiflawless)
+- [LinkedIn](https://www.linkedin.com/in/oluwaseyi-bondefaiye-owope-ab9951b1/)
